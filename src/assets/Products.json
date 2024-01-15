@@ -8,66 +8,66 @@
     },
     {
         "id": 2,
-        "name": "iphone xr",
+        "name": "Earphone",
         "picture": "prod-2.jpg",
-        "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "price": "$10",
+        "description": "Wireless Earphone"
     },
     {
         "id": 3,
-        "name": "samsung",
+        "name": "Couch",
         "picture": "prod-3.jpg",
         "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 4,
-        "name": "nokia",
+        "name": "Chair",
         "picture": "prod-4.jpg",
         "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 5,
-        "name": "sony ericson",
+        "name": "Gown",
         "picture": "prod-5.jpg",
-        "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "price": "$10",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 6,
-        "name": "infix",
+        "name": "Headphone",
         "picture": "prod-6.jpg",
         "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 7,
-        "name": "gionee",
+        "name": "Set of Chairs",
         "picture": "prod-7.jpg",
         "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 8,
-        "name": "redmi",
+        "name": "Iphone 13 pro",
         "picture": "prod-8.jpg",
-        "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "price": "$600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 9,
-        "name": "htc",
+        "name": "Headset",
         "picture": "prod-9.jpg",
         "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         "id": 10,
-        "name": "techno",
+        "name": "Headset",
         "picture": "prod-10.jpg",
         "price": "$300",
-        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
     }
     
 ]
