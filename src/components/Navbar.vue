@@ -38,13 +38,12 @@
       </div>
       <span class="text-white md:hidden text-4xl absolute right-6 top-5 cursor-pointer">
         <button class="bg-white text-black p-3 text-xl rounded-full" @click="toggleButton">{{ open ? "close" : "open" }}</button>
-        <!-- <i :class="[open ? 'bi bi-box' : 'fa fa-filter']"></i> -->
       </span>
       <ul
         class="md:flex gap-5 items-center absolute md:static bg-gray-900 w-full md:w-auto pb-10 md:pb-0 px-6 md:px-0 top-14 duration-500 mt-5"
         :class="[open ? 'left-0' : 'left-[-100%]']"
       >
-        <li v-for="tag in nav_tags" class="py-4 md:my-0 hover:text-green-500 duration-300 text-xl">
+        <li v-for="tag in nav_links" class="py-4 md:my-0 hover:text-green-500 duration-300 text-xl">
           <a href="#">{{ tag.name }}</a>
         </li>
       </ul>
@@ -57,7 +56,7 @@
   
   const open = ref(false);
   
-  const nav_tags = [
+  const nav_links = [
     { name: "Home" },
     { name: "About" }
   ];

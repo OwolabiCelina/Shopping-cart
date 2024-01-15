@@ -12,5 +12,6 @@
 
 <script setup>
   import Navbar from '@/components/Navbar.vue';
+  import ProductList from './ProductList.vue';
 
 </script>
