@@ -1,0 +1,73 @@
+[
+    {   
+        "id": 1,
+        "name": "Iphone",
+        "picture": "prod-1.jpg",
+        "price": "$300",
+        "description": "Sleek Iphone"
+    },
+    {
+        "id": 2,
+        "name": "iphone xr",
+        "picture": "prod-2.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 3,
+        "name": "samsung",
+        "picture": "prod-3.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 4,
+        "name": "nokia",
+        "picture": "prod-4.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 5,
+        "name": "sony ericson",
+        "picture": "prod-5.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 6,
+        "name": "infix",
+        "picture": "prod-6.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 7,
+        "name": "gionee",
+        "picture": "prod-7.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 8,
+        "name": "redmi",
+        "picture": "prod-8.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 9,
+        "name": "htc",
+        "picture": "prod-9.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    },
+    {
+        "id": 10,
+        "name": "techno",
+        "picture": "prod-10.jpg",
+        "price": "$300",
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa m..."
+    }
+    
+]
